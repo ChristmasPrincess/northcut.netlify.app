@@ -1,0 +1,1 @@
+@echo create new M: \10.10.65.12 /persistent:yes
